@@ -1,0 +1,8 @@
+package com.moto.service.repositorio;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.moto.service.entidades.Moto;
+
+public interface MotoRepository extends JpaRepository<Moto, Long> {
+}

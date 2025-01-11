@@ -1,0 +1,5 @@
+package com.usuario.service.controllador;
+
+public class UsuarioController {
+
+}
